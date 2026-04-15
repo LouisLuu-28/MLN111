@@ -53,6 +53,7 @@ export default function TheoryCard({ theory }: TheoryCardProps) {
   }
 
   const currentImage = theory.images[currentImageIndex]
+  const shouldAlignImageRight = currentImage.url.includes('OIP.fzmQgSyIIQcSpTHGumTkHAHaHP')
 
   const modal = isOpen ? (
     <div
@@ -77,7 +78,8 @@ export default function TheoryCard({ theory }: TheoryCardProps) {
             src={currentImage.url}
             alt={currentImage.caption}
             fill
-            className="object-cover"
+            className={shouldAlignImageRight ? 'object-contain object-right p-2 sm:p-3' : 'object-contain object-center p-2 sm:p-3'}
+            sizes="(max-width: 1024px) 100vw, 46vw"
             priority={false}
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/20 to-transparent" />

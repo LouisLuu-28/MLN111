@@ -9,12 +9,12 @@ const theories = [
     content: 'Nhà nước là một tổ chức quyền lực công cộng đặc biệt của giai cấp thống trị, được thiết lập để quản lý xã hội trên một lãnh thổ nhất định bằng pháp luật và các công cụ cưỡng chế nhằm bảo vệ trật tự xã hội phù hợp với lợi ích của giai cấp cầm quyền.',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=500&h=400&fit=crop',
-        caption: 'Nhà nước là thiết chế quyền lực công cộng mang tính lịch sử - giai cấp'
+        url: 'https://media.quochoi.vn/Uploads/Originals/2026/04/06/202604060848231220_z7695451418776_8a74210e288a0155ed4652f52f968428.jpg',
+        caption: 'Hình ảnh một phiên họp của Quốc hội nước CHXHCN Việt Nam'
       },
       {
-        url: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=500&h=400&fit=crop',
-        caption: 'Pháp luật và bộ máy quyền lực là công cụ quản lý xã hội của nhà nước'
+        url: 'https://tse1.mm.bing.net/th/id/OIP.fzmQgSyIIQcSpTHGumTkHAHaHP?rs=1&pid=ImgDetMain&o=7&rm=3',
+        caption: 'Tranh vẽ về nhà Ming ở Trung Quốc, một ví dụ về nhà nước phong kiến trong lịch sử'
       }
     ],
     keyPoints: [
@@ -31,12 +31,12 @@ const theories = [
     content: 'Theo quan điểm Mác - Lênin, nhà nước là một phạm trù lịch sử, chỉ xuất hiện khi xã hội phân chia thành các giai cấp đối kháng. Nguyên nhân sâu xa là sự phát triển của lực lượng sản xuất làm xuất hiện tư hữu và phân hóa giàu nghèo; nguyên nhân trực tiếp là mâu thuẫn giai cấp gay gắt cần một bộ máy cưỡng chế để duy trì trật tự theo lợi ích của giai cấp thống trị.',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=500&h=400&fit=crop',
-        caption: 'Phân hóa giai cấp là tiền đề lịch sử của sự ra đời nhà nước'
+        url: 'https://image.luatvietnam.vn/uploaded/665twebp/images/original/2023/06/09/Mau-thuan-giai-cap-manh-me-trong-xa-hoi-tu-ban_0906142048.jpeg',
+        caption: 'Đây là hình ảnh về quần chúng cách mạng Nga dưới sự lãnh đạo của Lenin trong Cách mạng Tháng Mười 1917, thể hiện hoạt động đấu tranh chính trị nhằm xây dựng nhà nước mới'
       },
       {
-        url: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&h=400&fit=crop',
-        caption: 'Mâu thuẫn lợi ích xã hội đòi hỏi một thiết chế quyền lực mới'
+        url: 'https://1.bp.blogspot.com/-Y3vNwbeqrMY/YSnGWImbMHI/AAAAAAAAAb8/DR68gvN0F7UOCqczH6WVPeXwmqQUzhI6QCLcBGAsYHQ/s1280/WhatsApp%2BImage%2B2021-08-27%2Bat%2B23.10.35.jpeg',
+        caption: 'Bức tranh mô tả xã hội tư bản theo hình kim tự tháp, trong đó giai cấp tư sản ở trên bóc lột và thống trị, còn công nhân ở dưới lao động nuôi toàn xã hội, thể hiện rõ bản chất giai cấp của nhà nước tư sản'
       }
     ],
     keyPoints: [
@@ -53,12 +53,12 @@ const theories = [
     content: 'Bản chất của nhà nước là tính giai cấp: nhà nước là bộ máy do giai cấp có vị thế kinh tế thống trị tổ chức và sử dụng để hợp pháp hóa, củng cố quyền lực chính trị của mình. Vì vậy, nhà nước không phải tổ chức trung lập đứng ngoài giai cấp, mà luôn phản ánh tương quan lợi ích giai cấp trong từng thời kỳ lịch sử.',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1453787748816-cdc6b89b1713?w=500&h=400&fit=crop',
-        caption: 'Quyền lực nhà nước gắn chặt với cấu trúc giai cấp xã hội'
+        url: 'https://bcp.cdnchinhphu.vn/Uploaded/tranthithom/2020_08_03/toa%20an.jpg',
+        caption: 'Hình ảnh tòa án thể hiện cho việc nhà nước quản lí xã hôi bằng pháp luật'
       },
       {
-        url: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=500&h=400&fit=crop',
-        caption: 'Cơ sở kinh tế quyết định định hướng chính trị của nhà nước'
+        url: '/hinh%20anh%20canh%20sat%20va%20quan%20doi.jpg',
+        caption: 'Hình ảnh AI thể hiện quyền lực cưỡng chế của nhà nước trong việc duy trì trật tự xã hội hiện hành'
       }
     ],
     keyPoints: [
@@ -75,12 +75,12 @@ const theories = [
     content: 'Nhà nước có ba đặc trưng nổi bật: (1) quản lý cư dân theo lãnh thổ quốc gia; (2) có bộ máy quyền lực công cộng chuyên nghiệp, bao gồm cơ quan hành chính, tư pháp, lực lượng vũ trang; (3) có hệ thống tài chính công, đặc biệt là thuế, để duy trì hoạt động của bộ máy nhà nước.',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=500&h=400&fit=crop',
-        caption: 'Lãnh thổ xác định phạm vi hiệu lực của quyền lực nhà nước'
+        url: 'https://mtcs.1cdn.vn/thumbs/540x360/2020/01/06/media.moitruong.net.vn-2020-01-_giay-to1.jpg',
+        caption: 'Nhà nước quản lý công dân thông qua hệ thống giấy tờ pháp lý'
       },
       {
-        url: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&h=400&fit=crop',
-        caption: 'Bộ máy quyền lực công cộng bảo đảm việc thực thi pháp luật'
+        url: 'https://mediabls.mediatech.vn/upload/image/202406/medium/466369_mceu_84504461511719234651649_20105424.png?1719234654742',
+        caption: 'Hình ảnh kiểm soát cửa khẩu biên giới quốc gia'
       }
     ],
     keyPoints: [
@@ -97,12 +97,12 @@ const theories = [
     content: 'Nhà nước thực hiện đồng thời hai nhóm chức năng: chức năng thống trị chính trị và chức năng xã hội. Về phạm vi hoạt động, nhà nước còn triển khai chức năng đối nội (duy trì trật tự, quản lý phát triển trong nước) và đối ngoại (bảo vệ lợi ích quốc gia, thiết lập quan hệ quốc tế). Các chức năng này liên hệ chặt chẽ và tác động qua lại lẫn nhau.',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&h=400&fit=crop',
-        caption: 'Chức năng chính trị thể hiện vai trò quyền lực của nhà nước'
+        url: 'https://hoidongytrunguong.vn/pic/News/tay-bac-24325_2121_HasThumb_Thumb.jpg',
+        caption: 'Hình ảnh đối nội của nhà nước'
       },
       {
-        url: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=500&h=400&fit=crop',
-        caption: 'Chức năng xã hội thể hiện vai trò điều hành các lợi ích công'
+        url: 'https://file3.qdnd.vn/data/images/0/2024/06/29/upload_2231/a5.jpg?dpi=150&quality=100&w=870',
+        caption: 'Hình ảnh miêu tả về đối ngoại, ngoại giao giữa Việt Nam và Nga'
       }
     ],
     keyPoints: [
@@ -119,12 +119,12 @@ const theories = [
     content: 'Theo lịch sử xã hội có giai cấp, có bốn kiểu nhà nước tiêu biểu: chủ nô, phong kiến, tư sản và vô sản. Bên cạnh kiểu nhà nước, mỗi thời kỳ còn có nhiều hình thức tổ chức quyền lực khác nhau như quân chủ, cộng hòa, liên bang... Hình thức có thể đa dạng nhưng bản chất giai cấp của nhà nước vẫn là tiêu chí quyết định.',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=500&h=400&fit=crop',
-        caption: 'Các kiểu nhà nước phản ánh các giai đoạn phát triển lịch sử'
+        url: 'https://hocluat.vn/wp-content/uploads/2020/01/nha-nuoc-chu-no.jpg',
+        caption: 'Hình ảnh miêu tả về một nhà nước chủ nô'
       },
       {
-        url: 'https://images.unsplash.com/photo-1453787748816-cdc6b89b1713?w=500&h=400&fit=crop',
-        caption: 'Hình thức nhà nước thay đổi theo bối cảnh kinh tế - xã hội'
+        url: 'https://hocluat.vn/wp-content/uploads/2018/02/nha-nuoc-tu-san.jpg',
+        caption: 'Hình ảnh nói về một nhà nước tư sản'
       }
     ],
     keyPoints: [
@@ -141,12 +141,12 @@ const theories = [
     content: 'Ở Việt Nam hiện nay, xây dựng Nhà nước pháp quyền xã hội chủ nghĩa là nhiệm vụ trọng tâm của đổi mới hệ thống chính trị. Mô hình này nhấn mạnh nguyên tắc thượng tôn pháp luật, quyền làm chủ của nhân dân, sự phân công và kiểm soát quyền lực giữa lập pháp - hành pháp - tư pháp, đồng thời đặt dưới sự lãnh đạo của Đảng Cộng sản Việt Nam.',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=500&h=400&fit=crop',
-        caption: 'Nhà nước pháp quyền hiện đại gắn với quản trị minh bạch, hiệu quả'
+        url: 'https://media.quochoi.vn/Uploads/Originals/2026/04/06/202604060848231220_z7695451418776_8a74210e288a0155ed4652f52f968428.jpg',
+        caption: 'Hình ảnh một phiên họp của Quốc hội nước CHXHCN Việt Nam'
       },
       {
-        url: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=500&h=400&fit=crop',
-        caption: 'Cải cách hành chính và kiểm soát quyền lực là yêu cầu quan trọng'
+        url: 'https://bcp.cdnchinhphu.vn/Uploaded/tranthithom/2020_08_03/toa%20an.jpg',
+        caption: 'Hình ảnh tòa án thể hiện cho việc nhà nước Việt Nam quản lí xã hôi bằng pháp luật'
       }
     ],
     keyPoints: [
@@ -163,12 +163,12 @@ const theories = [
     content: 'Nguồn gốc sâu xa của cách mạng xã hội là mâu thuẫn giữa lực lượng sản xuất tiến bộ với quan hệ sản xuất lỗi thời. Khi quan hệ sản xuất trở thành “xiềng xích” của lực lượng sản xuất, mâu thuẫn kinh tế chuyển hóa thành mâu thuẫn xã hội và chính trị, thúc đẩy sự ra đời của một cuộc cách mạng để thiết lập trật tự mới.',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1518611505868-48a333fe6d1f?w=500&h=400&fit=crop',
-        caption: 'Mâu thuẫn kinh tế - xã hội là nền tảng khách quan của cách mạng'
+        url: 'https://resource.kinhtedothi.vn/2021/12/22/mexico.jpg',
+        caption: 'Hình ảnh thể hiện sự mẫu thuẫn giàu-nghèo trong trong đời sống'
       },
       {
-        url: 'https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=500&h=400&fit=crop',
-        caption: 'Khi cấu trúc cũ không còn phù hợp, nhu cầu thay đổi trở thành tất yếu'
+        url: 'https://cdnmedia.baotintuc.vn/Upload/yTwlGtgJTRZkeJAfcpWR4g/files/2018/08/8B/chia1.jpg',
+        caption: 'Bức ảnh về thực trạng phân hóa giàu nghèo tàn khốc trên thế giới'
       }
     ],
     keyPoints: [
@@ -185,12 +185,12 @@ const theories = [
     content: 'Cách mạng xã hội là sự biến đổi căn bản về chất của đời sống xã hội, khác với cải cách chỉ thay đổi từng bộ phận. Theo nghĩa hẹp, đó là quá trình lật đổ chính quyền cũ, thiết lập chính quyền mới tiến bộ hơn. Cách mạng xã hội vừa có tính xã hội (thay đổi cấu trúc xã hội), vừa có tính chính trị (thay đổi quyền lực nhà nước).',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=500&h=400&fit=crop',
-        caption: 'Cách mạng xã hội tạo ra bước nhảy về chất trong tiến trình lịch sử'
+        url: 'https://bna.1cdn.vn/2024/10/29/bna.1cdn.vn-2024-10-27-_cao-trao-xo-viet-nghe-tinh.jpg',
+        caption: 'Cuộc biểu tình ngày 12/9/1930 của nông dân phủ Hưng Nguyên (Nghệ An) đấu tranh và phản đối chính sách khủng bố dã man của đế quốc Pháp và phong kiến'
       },
       {
-        url: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=500&h=400&fit=crop',
-        caption: 'Tiến hóa, cải cách và cách mạng có quan hệ nhưng không đồng nhất'
+        url: 'https://cdn.baohatinh.vn/images/7b4731fffcc5ec4070dba6ab8805eaf39023cf7a66873b34b89ffcf2474c7d6fa134f3668e9aa8bc79fe41b14ef97d36/article.jpg',
+        caption: 'Lật đổ chính quyền tư sản và xây dựng nhà nước xã hội chủ nghĩa'
       }
     ],
     keyPoints: [
@@ -207,8 +207,8 @@ const theories = [
     content: 'Lực lượng cách mạng xã hội gồm những giai cấp, tầng lớp có lợi ích gắn với mục tiêu cách mạng. Trong đó, động lực là các lực lượng có tinh thần triệt để, tự giác, kiên định và khả năng lôi cuốn quần chúng. Giai cấp lãnh đạo phải có hệ tư tưởng tiến bộ và đại diện cho xu hướng phát triển của phương thức sản xuất mới.',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=500&h=400&fit=crop',
-        caption: 'Liên minh lực lượng xã hội là nhân tố quan trọng của thành công cách mạng'
+        url: 'https://hvlq.vn/upload/61311/fck/files/2020_08_19_09_22_192.jpg',
+        caption: 'Cách mạng Tháng Tám: lực lượng là công nhân, nông dân, nhân dân; lãnh đạo là Hồ Chí Minh; tổ chức là Đảng Cộng sản Việt Nam, thể hiện qua khoảnh khắc đọc Tuyên ngôn Độc lập năm 1945'
       },
       {
         url: 'https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?w=500&h=400&fit=crop',
@@ -229,12 +229,12 @@ const theories = [
     content: 'Cách mạng xã hội chỉ có thể nổ ra khi điều kiện khách quan chín muồi (khủng hoảng kinh tế - chính trị, mâu thuẫn xã hội gay gắt) và nhân tố chủ quan đủ mạnh (lực lượng cách mạng có tổ chức, có đường lối, có khả năng hành động). Thời cơ cách mạng là thời điểm hội tụ cả hai yếu tố này ở mức thuận lợi nhất.',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=500&h=400&fit=crop',
-        caption: 'Điều kiện khách quan tạo nền, nhân tố chủ quan quyết định hành động'
+        url: 'https://resource.kinhtedothi.vn/2022/05/06/canh-kho-cuc-cua-nguoi-nong-dan-truoc-cach-mang-thang-8-anh-tu-lieu.jpg',
+        caption: 'Hình ảnh thực dân Pháp bóc lột sức lao động với nông dân Việt Nam'
       },
       {
-        url: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=500&h=400&fit=crop',
-        caption: 'Nắm đúng thời cơ là yếu tố then chốt trong chuyển biến lịch sử'
+        url: 'https://vcdn1-giaitri.vnecdn.net/2025/08/08/anh-nan-doi-1945-1754621146-17-7764-1915-1754621222.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4cRDhz8UDcCN9hi2wsk0yw',
+        caption: 'Hình ảnh nạn đói năm 1945'
       }
     ],
     keyPoints: [
@@ -251,12 +251,12 @@ const theories = [
     content: 'Phương pháp cách mạng phụ thuộc tương quan lực lượng và bối cảnh lịch sử cụ thể. Trong nhiều trường hợp, cách mạng bạo lực là con đường chủ yếu để đập tan bộ máy nhà nước cũ. Tuy nhiên, trong những điều kiện đặc biệt, đấu tranh hòa bình thông qua nghị trường cũng có thể được sử dụng nếu lực lượng cách mạng đủ mạnh và kẻ thống trị không còn khả năng chống trả hiệu quả.',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1529078155058-5d716f45d604?w=500&h=400&fit=crop',
-        caption: 'Phương pháp cách mạng phải gắn với điều kiện lịch sử cụ thể'
+        url: 'https://nghiencuuquocte.org/wp-content/uploads/2021/08/15.jpg',
+        caption: 'Phong trào độc lập Ấn Độ do Mahatma Gandhi lãnh đạo, đấu tranh bất bạo động'
       },
       {
-        url: 'https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=500&h=400&fit=crop',
-        caption: 'Mục tiêu cốt lõi là giành và giữ chính quyền của lực lượng tiến bộ'
+        url: 'https://media.vov.vn/uploaded/ql0rp46pywc/2017_10_23/tan_cong_cung_dien_mua_dong_pevp.jpg',
+        caption: 'Hình ảnh Cách mạng Tháng Mười Nga dùng vũ trang lật đổ chính quyền'
       }
     ],
     keyPoints: [
@@ -273,12 +273,12 @@ const theories = [
     content: 'Trong bối cảnh toàn cầu hóa, cách mạng khoa học - công nghệ và kinh tế tri thức, nhiều biến đổi xã hội hiện nay diễn ra thông qua cải cách, đổi mới, điều chỉnh thể chế và hợp tác quốc tế thay vì các cuộc cách mạng điển hình như trước đây. Dù hình thức khác nhau, xu hướng chung vẫn là thúc đẩy phát triển tiến bộ, dân chủ, công bằng và văn minh.',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=500&h=400&fit=crop',
-        caption: 'Thế giới hiện đại ưu tiên đối thoại, hợp tác và cải cách thể chế'
+        url: 'https://www.nait.vn/uploads/news/2024/01/mh1.jpg',
+        caption: 'Hình ảnh AI về việc thay đổi cách con người học tập, làm việc với công nghệ'
       },
       {
-        url: 'https://images.unsplash.com/photo-1521791136064-7986c2920216?w=500&h=400&fit=crop',
-        caption: 'Phát triển bền vững và tiến bộ xã hội là mục tiêu chung của thời đại'
+        url: 'https://vinuni.edu.vn/wp-content/uploads/2024/12/cuoc-cach-mang-cong-nghiep-4-0-la-gi-tac-dong-manh-me-cua-cuoc-cach-mang-cong-nghiep.jpg',
+        caption: 'Hình ảnh miêu tả tự động hóa AI, chuyển đổi số trong cách mạng công nghiệp 4.0'
       }
     ],
     keyPoints: [
