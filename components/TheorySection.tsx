@@ -209,10 +209,6 @@ const theories = [
       {
         url: 'https://hvlq.vn/upload/61311/fck/files/2020_08_19_09_22_192.jpg',
         caption: 'Cách mạng Tháng Tám: lực lượng là công nhân, nông dân, nhân dân; lãnh đạo là Hồ Chí Minh; tổ chức là Đảng Cộng sản Việt Nam, thể hiện qua khoảnh khắc đọc Tuyên ngôn Độc lập năm 1945'
-      },
-      {
-        url: 'https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?w=500&h=400&fit=crop',
-        caption: 'Vai trò tổ chức và lãnh đạo quyết định hướng đi của phong trào'
       }
     ],
     keyPoints: [
